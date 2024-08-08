@@ -77,7 +77,7 @@ To effectively understand and work with pressure drop and velocity profiles in f
 MATLAB&reg;
 
 ## License ##
-The license for this module is available in the [license.md](LICENSE.md) file in this GitHub repository.
+The license for this module is available in the [license](LICENSE) file in this GitHub repository.
 
 ## Support ##
 Please contact the <a href="mailto:adquesada@itcr.ac.cr">Adrián José Quesada Martínez.</a>
