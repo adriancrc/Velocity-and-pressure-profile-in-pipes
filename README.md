@@ -13,20 +13,56 @@ Instituto Tecnológico de Costa Rica
 
 ## Description ##
 This curriculum module contains interactive [MATLAB&reg; app designer app](https://la.mathworks.com/products/matlab/app-designer.html) that teach fundamental concept 
-related to introductory fluids mechanics flow in pipes. Topics addressed include units, drop pressure in pipes, velocity profile through the pipe and cross section. 
+related to introductory fluids mechanics flow in pipes. Topics addressed include units, drop pressure in pipes, velocity profile through the pipe and cross section.
 
-## Contexto o pre-requisitos
-Este texto debería ayudar a otros docentes a comprender las situaciones de enseñanza para las cuales esta actividad es apropiada.
+### Summary: Velocity Profile and Pressure Drop Plotting App
 
-## Asignaturas o departmento donde se puede usar la Actividad
+#### Overview
 
-## Notas para los Educadores usando la Actividad
-Esta sección debe incluir notas y consejos para los instructores que podrían utilizar la actividad.
+The Velocity Profile and Pressure Drop Plotting App is a powerful and user-friendly tool designed to assist engineers, researchers, and students in analyzing fluid dynamics within pipelines. This app enables users to visualize and calculate the velocity profiles and pressure drops for various flow conditions, making it an essential tool for optimizing fluid transport systems.
 
-## Evaluación
-Describe brevemente cómo determinas si los estudiantes han alcanzado los objetivos de esta tarea o actividad.
-O si la actividad es exploratoria
+#### Key Features
 
-## Recursos adicionales
-Esta sección debe incluir referencias y enlaces a recursos en línea que discutan la actividad específica o que apoyen a los docentes
-y/o estudiantes que utilicen la actividad.
+1. **Intuitive User Interface**:
+   - The app features an easy-to-navigate interface that allows users to input parameters such as pipe diameter, fluid properties (viscosity) and pressure.
+
+3. **Velocity Profile Plotting**:
+   - Generates detailed velocity profiles for laminar flow regimes.
+   - Visual representation helps in understanding how the fluid velocity changes from the pipe center to the walls.
+
+4. **Pressure Drop Calculation**:
+   - Utilizes the Darcy-Weisbach equation to compute the pressure drop across the pipe length.
+   - Accounts for factors like pipe roughness, fluid velocity, and pipe diameter for precise results.
+
+5. **Graphical Visualization**:
+   - Provides clear and interactive graphs that plot the velocity profile and pressure drop.
+   - Users can zoom, pan, and export graphs for reports and presentations.
+
+6. **Customizable Parameters**:
+   - Allows users to adjust various parameters and instantly see the impact on velocity profiles and pressure drops.
+   - Facilitates scenario analysis and what-if studies for different pipeline configurations.
+
+7. **Educational Use**:
+   - Ideal for academic purposes, helping students understand fluid dynamics concepts through visual aids.
+
+#### Benefits
+
+- **Enhanced Understanding**: Provides a clear visual understanding of fluid behavior in pipes, aiding in better design and optimization of pipeline systems.
+- **Time Efficiency**: Speeds up the analysis process with quick calculations and instant visual feedback.
+- **Accuracy**: Ensures accurate profiling and pressure drop calculations, critical for effective system design and operation.
+- **Versatility**: Suitable for a wide range of applications for educational use.
+
+## Prerequisite Domain Knowledge ##
+
+To effectively understand and work with pressure drop and velocity profiles in fluid dynamics, certain foundational concepts are essential. Below are the key areas of domain knowledge that should be familiar:
+
+1. **Fluid Dynamics**
+2. **Types of Flow**
+3. **Reynolds Number (Re)**
+4. **Velocity Profile**
+5. **Pressure Drop**
+6. **Friction Factor (Darcy Friction Factor)**
+7. **Moody Chart**
+8. **Energy Losses in Piping Systems**
+9. **No-Slip Condition**
+10. **Viscosity**
