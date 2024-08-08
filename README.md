@@ -1,6 +1,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes) or [![View Velocity and pressure profile in pipes on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/171049-velocity-and-pressure-profile-in-pipes)
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/total) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FVelocity-and-pressure-profile-in-pipes%2Fmain%2Freport%2Fbadge%2Ftested_with.json)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/total)](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/total
+) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FVelocity-and-pressure-profile-in-pipes%2Fmain%2Freport%2Fbadge%2Ftested_with.json)
 
 
 
