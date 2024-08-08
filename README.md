@@ -56,13 +56,19 @@ The Velocity Profile and Pressure Drop Plotting App is a powerful and user-frien
 
 To effectively understand and work with pressure drop and velocity profiles in fluid dynamics, certain foundational concepts are essential. Below are the key areas of domain knowledge that should be familiar:
 
-1. **Fluid Dynamics**
-2. **Types of Flow**
-3. **Reynolds Number (Re)**
-4. **Velocity Profile**
-5. **Pressure Drop**
-6. **Friction Factor (Darcy Friction Factor)**
-7. **Moody Chart**
-8. **Energy Losses in Piping Systems**
-9. **No-Slip Condition**
-10. **Viscosity**
+1. Fluid Dynamics
+2. Types of Flow
+3. Reynolds Number (Re)
+4. Velocity Profile
+5. Pressure Drop
+6. Friction Factor (Darcy Friction Factor)
+7. Moody Chart
+8. Energy Losses in Piping Systems
+9. No-Slip Condition
+10. Viscosity
+
+## Get started with the Velocity and pressure profile in pipes interactive app ##
+
+**Option 1: Download to Desktop** Download and unzip the repository. Then, double-click the Velocity and pressure profile in a pipe.mlappinstall file to install the app inside MATLAB&reg;. 
+
+**Option 2: [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes))** Log in to your MathWorks account to access your license. If you are associated with a university, use your university email to access a license and install the app. 
