@@ -11,9 +11,9 @@ Adrián José Quesada Martínez
 
 Instituto Tecnológico de Costa Rica
 
-## Resumen de la actividad
-Por favor, proporcione una breve descripción de su actividad o tarea y sus resultados. 
-Asegúrese de incluir palabras clave para ayudar otros a encontrar sus materiales utilizando nuestras funciones de búsqueda/navegación.
+## Description ##
+This curriculum module contains interactive [MATLAB&reg; app designer app](https://la.mathworks.com/products/matlab/app-designer.html) that teach fundamental concept 
+related to introductory fluids mechanics flow in pipes. Topics addressed include units, drop pressure in pipes, velocity profile through the pipe and cross section. 
 
 ## Contexto o pre-requisitos
 Este texto debería ayudar a otros docentes a comprender las situaciones de enseñanza para las cuales esta actividad es apropiada.
