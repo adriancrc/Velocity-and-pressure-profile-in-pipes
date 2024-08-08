@@ -71,4 +71,4 @@ To effectively understand and work with pressure drop and velocity profiles in f
 
 **Option 1: Download to Desktop** Download and unzip the repository. Then, double-click the Velocity and pressure profile in a pipe.mlappinstall file to install the app inside MATLAB&reg;. 
 
-**Option 2: [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes))** Log in to your MathWorks account to access your license. If you are associated with a university, use your university email to access a license and install the app. 
+**Option 2: [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes)** Log in to your MathWorks account to access your license. If you are associated with a university, use your university email to access a license and install the app. 
