@@ -1,9 +1,11 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes) or [![View Velocity and pressure profile in pipes on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/171049-velocity-and-pressure-profile-in-pipes)
 
-# (Adicione aquí el Titulo de la Actividad de Enseñanza)
+# Velocity and pressure profile in pipes
 
 ## Autor
-Adicione su nombre y afiliación
+Adrián José Quesada Martíne
+
+Instituto Tecnológico de Costa Rica
 
 ## Resumen de la actividad
 Por favor, proporcione una breve descripción de su actividad o tarea y sus resultados. 
