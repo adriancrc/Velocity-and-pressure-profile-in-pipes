@@ -3,9 +3,8 @@
 
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/latest/total)
 ![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Velocity-and-pressure-profile-in-pipes)
-![CI](https://github.com/adriancrc/Velocity-and-pressure-profile-in-pipes/actions/workflows/ci.yml/badge.svg)
-![CodeQL](https://github.com/adriancrc/Velocity-and-pressure-profile-in-pipes/actions/workflows/codeql-analysis.yml/badge.svg)
-[![MATLAB Tests](https://img.shields.io/badge/MATLAB-Test%20Passed-brightgreen)](https://www.mathworks.com/help/matlab/ref/runtests.html)
+![Tested with MATLAB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FVelocity-and-pressure-profile-in-pipes%2Fmain%2Freport%2Fbadge%2Ftested_with.json)
+
 
 > 🌐 This README is also available in: [Español (README.es.md)](README.es.md)
 
@@ -102,3 +101,4 @@ Questions or feedback: [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
 ---
 
 © 2024 Adrián José Quesada Martínez.
+
