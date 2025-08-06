@@ -5,7 +5,6 @@
 ![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Velocity-and-pressure-profile-in-pipes)
 ![Tested with MATLAB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FVelocity-and-pressure-profile-in-pipes%2Fmain%2Freport%2Fbadge%2Ftested_with.json)
 
-
 > 🌐 This README is also available in: [Español (README.es.md)](README.es.md)
 
 # Velocity and Pressure Profile in Pipes
@@ -75,18 +74,13 @@ The **Velocity Profile and Pressure Drop Plotting App** is a user-friendly tool 
 
 ---
 
-## ✅ Testing & Continuous Integration
+## ✅ Testing
 
-This repository includes basic continuous integration (CI) workflows to ensure the application runs correctly across changes. CI runs can include:
+This app has been tested with:
 
-- Static code analysis (via CodeQL)
-- MATLAB® script or AppDesigner tests
-- Dependency checks (optional)
+![Tested with MATLAB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FVelocity-and-pressure-profile-in-pipes%2Fmain%2Freport%2Fbadge%2Ftested_with.json)
 
-CI Status:  
-![CI](https://github.com/adriancrc/Velocity-and-pressure-profile-in-pipes/actions/workflows/ci.yml/badge.svg)  
-![CodeQL](https://github.com/adriancrc/Velocity-and-pressure-profile-in-pipes/actions/workflows/codeql-analysis.yml/badge.svg)  
-[![MATLAB Tests](https://img.shields.io/badge/MATLAB-Test%20Passed-brightgreen)](https://www.mathworks.com/help/matlab/ref/runtests.html)
+> Continuous integration and code analysis workflows will be added in future releases.
 
 ---
 
@@ -101,4 +95,3 @@ Questions or feedback: [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
 ---
 
 © 2024 Adrián José Quesada Martínez.
-
