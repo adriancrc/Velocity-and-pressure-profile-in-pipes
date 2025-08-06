@@ -3,7 +3,8 @@
 
 ![Version](https://img.shields.io/github/v/release/adriancrc/Velocity-and-pressure-profile-in-pipes)
 ![License](https://img.shields.io/github/license/adriancrc/Velocity-and-pressure-profile-in-pipes)
-![GitHub Release Downloads](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/latest/total)
+![Downloads (Latest)](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/latest/total)
+![Downloads (Total)](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/total)
 ![Stars](https://img.shields.io/github/stars/adriancrc/Velocity-and-pressure-profile-in-pipes?style=social)
 
 ![Made with MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-blue)
@@ -106,4 +107,5 @@ Questions or feedback: [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
 ---
 
 © 2024 Adrián José Quesada Martínez.
+
 
