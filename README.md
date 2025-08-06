@@ -1,11 +1,22 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes)  
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/171049-velocity-and-pressure-profile-in-pipes)
 
+![Version](https://img.shields.io/github/v/release/adriancrc/Velocity-and-pressure-profile-in-pipes)
+![License](https://img.shields.io/github/license/adriancrc/Velocity-and-pressure-profile-in-pipes)
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/latest/total)
-![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Velocity-and-pressure-profile-in-pipes)
+![Stars](https://img.shields.io/github/stars/adriancrc/Velocity-and-pressure-profile-in-pipes?style=social)
+
+![Made with MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-blue)
 ![Tested with MATLAB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FVelocity-and-pressure-profile-in-pipes%2Fmain%2Freport%2Fbadge%2Ftested_with.json)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Educational Use](https://img.shields.io/badge/Use-Educational-important)
+
+![Maintained](https://img.shields.io/badge/status-maintained-brightgreen)
+![Developed at ITCR](https://img.shields.io/badge/Developed%20at-ITCR-blue)
+![Author](https://img.shields.io/badge/Author-Adrián%20Quesada%20Martínez-blueviolet)
 
 > 🌐 This README is also available in: [Español (README.es.md)](README.es.md)
+
 
 # Velocity and Pressure Profile in Pipes
 
@@ -95,3 +106,4 @@ Questions or feedback: [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
 ---
 
 © 2024 Adrián José Quesada Martínez.
+
