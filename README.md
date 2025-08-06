@@ -1,87 +1,104 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes) or [![View Velocity and pressure profile in pipes on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/171049-velocity-and-pressure-profile-in-pipes)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes)  
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/171049-velocity-and-pressure-profile-in-pipes)
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/total) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FVelocity-and-pressure-profile-in-pipes%2Fmain%2Freport%2Fbadge%2Ftested_with.json) ![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Velocity-and-pressure-profile-in-pipes)
+![GitHub Release Downloads](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/latest/total)
+![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Velocity-and-pressure-profile-in-pipes)
+![CI](https://github.com/adriancrc/Velocity-and-pressure-profile-in-pipes/actions/workflows/ci.yml/badge.svg)
+![CodeQL](https://github.com/adriancrc/Velocity-and-pressure-profile-in-pipes/actions/workflows/codeql-analysis.yml/badge.svg)
+[![MATLAB Tests](https://img.shields.io/badge/MATLAB-Test%20Passed-brightgreen)](https://www.mathworks.com/help/matlab/ref/runtests.html)
 
+> 🌐 This README is also available in: [Español (README.es.md)](README.es.md)
 
+# Velocity and Pressure Profile in Pipes
 
+## Author
+**Adrián José Quesada Martínez**  
+*Instituto Tecnológico de Costa Rica*
 
-# Velocity and pressure profile in pipes
+---
 
-## Autor
-Adrián José Quesada Martínez
+## 📘 Description
+This curriculum module includes an interactive [MATLAB® App Designer](https://la.mathworks.com/products/matlab/app-designer.html) application that introduces key concepts related to fluid flow in pipes. The app addresses:
 
-Instituto Tecnológico de Costa Rica
+- Units management  
+- Pressure drop calculation in pipes  
+- Velocity profile visualization  
+- Cross-sectional flow analysis
 
-## Description ##
-This curriculum module contains interactive [MATLAB&reg; app designer app](https://la.mathworks.com/products/matlab/app-designer.html) that teach fundamental concept 
-related to introductory fluids mechanics flow in pipes. Topics addressed include units, drop pressure in pipes, velocity profile through the pipe and cross section.
+---
 
-### Summary: Velocity Profile and Pressure Drop Plotting App
+## 🧰 App Summary: Velocity Profile and Pressure Drop Plotting Tool
 
-#### Overview
+### 🔍 Overview
+The **Velocity Profile and Pressure Drop Plotting App** is a user-friendly tool for engineers, researchers, and students. It allows you to calculate and visualize velocity profiles and pressure losses for different flow conditions.
 
-The Velocity Profile and Pressure Drop Plotting App is a powerful and user-friendly tool designed to assist engineers, researchers, and students in analyzing fluid dynamics within pipelines. This app enables users to visualize and calculate the velocity profiles and pressure drops for various flow conditions, making it an essential tool for optimizing fluid transport systems.
+### ✨ Key Features
+1. **Intuitive User Interface**
+2. **Velocity Profile Visualization** (laminar flow)
+3. **Pressure Drop Calculation** (Darcy–Weisbach equation)
+4. **Interactive Graphs** (zoom, export)
+5. **Customizable Parameters**
+6. **Educational Value**
 
-#### Key Features
+---
 
-1. **Intuitive User Interface**:
-   - The app features an easy-to-navigate interface that allows users to input parameters such as pipe diameter, fluid properties (viscosity) and pressure.
+### 🎯 Benefits
+- Clear visualization of fluid behavior in pipes
+- Quick and accurate calculations
+- Suitable for educational and practical use
 
-3. **Velocity Profile Plotting**:
-   - Generates detailed velocity profiles for laminar flow regimes.
-   - Visual representation helps in understanding how the fluid velocity changes from the pipe center to the walls.
+---
 
-4. **Pressure Drop Calculation**:
-   - Utilizes the Darcy-Weisbach equation to compute the pressure drop across the pipe length.
-   - Accounts for factors like pipe roughness, fluid velocity, and pipe diameter for precise results.
+## 📚 Prerequisite Knowledge
+- Fluid dynamics
+- Laminar and turbulent flow
+- Reynolds number
+- Darcy friction factor & Moody chart
+- No-slip condition
+- Viscosity and pressure drop concepts
 
-5. **Graphical Visualization**:
-   - Provides clear and interactive graphs that plot the velocity profile and pressure drop.
-   - Users can zoom, pan, and export graphs for reports and presentations.
+---
 
-6. **Customizable Parameters**:
-   - Allows users to adjust various parameters and instantly see the impact on velocity profiles and pressure drops.
-   - Facilitates scenario analysis and what-if studies for different pipeline configurations.
+## 🚀 Getting Started
 
-7. **Educational Use**:
-   - Ideal for academic purposes, helping students understand fluid dynamics concepts through visual aids.
+### Option 1: **Download to Desktop**
+1. Download and unzip the repository.
+2. Double-click the `.mlappinstall` file to install in MATLAB®.
 
-#### Benefits
+### Option 2: **[Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes)**
+- Log into your MathWorks account.
+- If affiliated with a university, use your academic email.
 
-- **Enhanced Understanding**: Provides a clear visual understanding of fluid behavior in pipes, aiding in better design and optimization of pipeline systems.
-- **Time Efficiency**: Speeds up the analysis process with quick calculations and instant visual feedback.
-- **Accuracy**: Ensures accurate profiling and pressure drop calculations, critical for effective system design and operation.
-- **Versatility**: Suitable for a wide range of applications for educational use.
+---
 
-## Prerequisite Domain Knowledge ##
+## 🛠️ Products Required
+- MATLAB®
 
-To effectively understand and work with pressure drop and velocity profiles in fluid dynamics, certain foundational concepts are essential. Below are the key areas of domain knowledge that should be familiar:
+---
 
-1. Fluid Dynamics
-2. Types of Flow
-3. Reynolds Number (Re)
-4. Velocity Profile
-5. Pressure Drop
-6. Friction Factor (Darcy Friction Factor)
-7. Moody Chart
-8. Energy Losses in Piping Systems
-9. No-Slip Condition
-10. Viscosity
+## ✅ Testing & Continuous Integration
 
-## Get started with the Velocity and pressure profile in pipes interactive app ##
+This repository includes basic continuous integration (CI) workflows to ensure the application runs correctly across changes. CI runs can include:
 
-**Option 1: Download to Desktop** Download and unzip the repository. Then, double-click the Velocity and pressure profile in a pipe.mlappinstall file to install the app inside MATLAB&reg;. 
+- Static code analysis (via CodeQL)
+- MATLAB® script or AppDesigner tests
+- Dependency checks (optional)
 
-**Option 2: [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes)** Log in to your MathWorks account to access your license. If you are associated with a university, use your university email to access a license and install the app. 
+CI Status:  
+![CI](https://github.com/adriancrc/Velocity-and-pressure-profile-in-pipes/actions/workflows/ci.yml/badge.svg)  
+![CodeQL](https://github.com/adriancrc/Velocity-and-pressure-profile-in-pipes/actions/workflows/codeql-analysis.yml/badge.svg)  
+[![MATLAB Tests](https://img.shields.io/badge/MATLAB-Test%20Passed-brightgreen)](https://www.mathworks.com/help/matlab/ref/runtests.html)
 
-## Products ##
-MATLAB&reg;
+---
 
-## License ##
-The license for this module is available in the [license](LICENSE) file in this GitHub repository.
+## 📄 License
+See [LICENSE](LICENSE) for details.
 
-## Support ##
-Please contact the <a href="mailto:adquesada@itcr.ac.cr">Adrián José Quesada Martínez.</a>
+---
 
-# #
-_Copyright 2024 Adrián José Quesada Martínez._
+## 📬 Support
+Questions or feedback: [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
+
+---
+
+© 2024 Adrián José Quesada Martínez.
