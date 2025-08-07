@@ -1,3 +1,7 @@
+# Perfil de velocidad y caída de presión en tuberías
+
+🌐 This README is also available in English 🇺🇸: [README.md](README.md)
+
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes)  
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/171049-velocity-and-pressure-profile-in-pipes)
 
@@ -16,9 +20,9 @@
 ![Developed at ITCR](https://img.shields.io/badge/Developed%20at-ITCR-blue)
 ![Author](https://img.shields.io/badge/Author-Adrián%20Quesada%20Martínez-blueviolet)
 
-🌐 This README is also available in English 🇺🇸: [README.md](README.md)
 
-# Perfil de velocidad y caída de presión en tuberías
+---
+
 
 ## Autor
 **Adrián José Quesada Martínez**  
