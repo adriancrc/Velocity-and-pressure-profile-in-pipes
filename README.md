@@ -16,7 +16,7 @@
 ![Developed at ITCR](https://img.shields.io/badge/Developed%20at-ITCR-blue)
 ![Author](https://img.shields.io/badge/Author-Adrián%20Quesada%20Martínez-blueviolet)
 
-> 🌐 This README is also available in: [Español (README.es.md)](README.es.md)
+> 🌐 Este README también está disponible en Español 🇪🇸: [README.es.md](README.es.md)
 
 
 # Velocity and Pressure Profile in Pipes
@@ -107,5 +107,6 @@ Questions or feedback: [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
 ---
 
 © 2024 Adrián José Quesada Martínez.
+
 
 
