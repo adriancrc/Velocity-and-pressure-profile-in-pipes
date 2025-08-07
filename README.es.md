@@ -16,7 +16,7 @@
 ![Developed at ITCR](https://img.shields.io/badge/Developed%20at-ITCR-blue)
 ![Author](https://img.shields.io/badge/Author-Adrián%20Quesada%20Martínez-blueviolet)
 
-> 🌐 Este README también está disponible en: [English (README.md)](README.md)
+🌐 This README is also available in English 🇺🇸: [README.md](README.md)
 
 # Perfil de velocidad y caída de presión en tuberías
 
