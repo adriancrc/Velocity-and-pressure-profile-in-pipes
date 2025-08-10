@@ -110,7 +110,18 @@ Questions or feedback: [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
 
 ---
 
+## ⭐ Don't forget to rate!
+
+If you found this material useful, please support it by leaving a ⭐⭐⭐⭐⭐ rating on the project page.  
+Your feedback helps improve and keep sharing resources!
+
+[![Rate this project](https://img.shields.io/badge/★★★★★-Rate%20on%20File%20Exchange-blueviolet?style=for-the-badge)](https://la.mathworks.com/matlabcentral/fileexchange/171049-velocity-and-pressure-profile-in-pipes)
+
+---
+
+
 © 2024 Adrián José Quesada Martínez.
+
 
 
 
