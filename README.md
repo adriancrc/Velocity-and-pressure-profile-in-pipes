@@ -20,10 +20,7 @@
 ![Developed at ITCR](https://img.shields.io/badge/Developed%20at-ITCR-blue)
 ![Author](https://img.shields.io/badge/Author-Adrián%20Quesada%20Martínez-blueviolet)
 
-
 ---
-
-
 
 ## Author
 **Adrián José Quesada Martínez**  
@@ -119,10 +116,4 @@ Your feedback helps improve and keep sharing resources!
 
 ---
 
-
 © 2024 Adrián José Quesada Martínez.
-
-
-
-
-
