@@ -5,11 +5,14 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Velocity-and-pressure-profile-in-pipes)  
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/171049-velocity-and-pressure-profile-in-pipes)
 
-![Version](https://img.shields.io/github/v/release/adriancrc/Velocity-and-pressure-profile-in-pipes)
-![License](https://img.shields.io/github/license/adriancrc/Velocity-and-pressure-profile-in-pipes)
-![Downloads (Total)](https://img.shields.io/github/downloads/adriancrc/Velocity-and-pressure-profile-in-pipes/total)
+![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Metodo-numerico-de-Biseccion)
+![Total Downloads](https://img.shields.io/github/downloads/adriancrc/Metodo-numerico-de-Biseccion/total)
+![Tested with MATLAB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FMetodo-numerico-de-Biseccion%2Fmain%2Freport%2Fbadge%2Ftested_with.json)
 ![Made with MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-blue)
-![Tested with MATLAB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FVelocity-and-pressure-profile-in-pipes%2Fmain%2Freport%2Fbadge%2Ftested_with.json)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Use Case](https://img.shields.io/badge/Use-Educational-success)
+![Author](https://img.shields.io/badge/Author-Adrián%20Quesada%20Martínez-blueviolet)
+![Developed at ITCR](https://img.shields.io/badge/Developed%20at-ITCR-blue)
 
 ---
 
@@ -74,3 +77,4 @@ Your feedback helps improve and keep sharing resources!
 ---
 
 © 2024 Adrián José Quesada Martínez.
+
