@@ -1,7 +1,7 @@
 # Fuerza detección como MATLAB
 *.m   linguist-language=MATLAB
 *.mlx linguist-language=MATLAB
-*.mlapp linguist-language=MATLAB
+*.mlappinstall linguist-language=MATLAB
 
 # (Opcional) Excluir de conteo de lenguajes
 *.md   linguist-detectable=false
